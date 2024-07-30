@@ -4,10 +4,9 @@ C++
 Python
 JavaScript
 C#
-Pycharm
+[Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 VisualStudioCode
 VisualStudio
-
 ###Follow me
 [VK](https://vk.com/n.melnikov10)
 [Ins](https://www.instagram.com/_og.mel10_?igsh=MW5lbmFzaWQ5ZzE3cQ%3D%3D&utm_source=qr)
