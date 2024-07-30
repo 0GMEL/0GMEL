@@ -4,7 +4,7 @@ C++
 Python
 JavaScript
 C#
-[Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 VisualStudioCode
 VisualStudio
 ###Follow me
